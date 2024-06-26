@@ -17,18 +17,23 @@ Crea un schema para crear las tablas
 Crea la tabla categoria con las siguientes columnas
 
 -Id_categoria
+
 -Nombre_categoria
 
 Crea la tabla pregunta con las siguientes columnas
 
 -Id_preguta
+
 -Id_categoria (FK)
+
 -Texto_Pregunta
 
 Crea la tabla respuesta con las siguientes columnas
 
 -Id_respuesta
+
 -Id_categoria (FK)
+
 -texto_pregunta
 
 Conectar de la base de datos
