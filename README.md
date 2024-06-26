@@ -1,12 +1,15 @@
 Cerebro en accion (Juego de preguntas)
 
 Pre-requisitos 📋
+
 Que cosas se necesitan para jugar:
 
 -Intellij Idea (Recomendada la version del 2023 en adelante)
+
 -MySql Workbench (Version 8.0 en adelante)
 
 Instalación 🔧
+
 Creacion de la base de datos
 
 Crea un schema para crear las tablas
@@ -49,7 +52,9 @@ Biblioteca pasa hacer las pruebas unitarias - https://www.jetbrains.com/idea/
 Base de datos utilizada - https://www.mysql.com/products/workbench/
 
 Autores ✒️
+
 Ignacio Essus - https://github.com/Nakotex7906
+
 W.Alonso.chavez - https://github.com/AlonsoRom
 
 
